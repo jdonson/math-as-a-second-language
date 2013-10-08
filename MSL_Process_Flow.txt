@@ -1,0 +1,45 @@
+MSL PROCESS FLOW 
+
+0.  Structure MSL terminology database.
+
+1.  Target Exam PDF File URL
+
+	INPUTS:   	user targets xyz.pdf
+
+	OUTPUTS:  	user, url, pdf file
+
+2.  Catalog Targeted Exam
+
+	INPUTS:   	user, url, pdf file (On Duplicate Key Update)
+
+	OUTPUTS: 	file size, question count, exam date, etc  ("exam metadata")
+
+3.  Extract all text from pdf file and provide ascii word list and images.
+
+	INPUTS:		pdf file
+
+	OUTPUTS:	ascii word list and images
+
+4.  Report on word frequencies in ascii file, sorted by occurrence.
+
+	INPUTS:		ascii word list
+
+	OUTPUTS:	MSL terminology frequency report
+
+5.  Extract all text from pdf file and populate terminology database with this content.
+
+6.  Tag questions with 'question type' labels:  {linguistic|numeric}{tsm, pow, geo, alg, etc}
+
+7.  With this word/problem opportunity, show how we can discuss micro-scenario:
+
+	Two students on same exam on same day got same two math exam problems wrong.
+
+	=> How can we show that high-frequency terms may be the reason for their errors?
+
+	=> How would these students have performed with the equivalent calculation problem without the language burden?
+
+AFTERTHOUGHTS
+
+Images?
+
+Phrase --< contiguous n terms with frequencies....

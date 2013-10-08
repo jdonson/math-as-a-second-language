@@ -1,0 +1,36 @@
+State:  New York
+
+Grade:	 3
+
+Exam Date:  May 5-7, 2010
+
+File Names:	20100505book1w.pdf, 20100505book2w.pdf
+
+Exam URLs:  http://www.nysedregents.org/Grade3/Mathematics/20100505book1w.pdf, http://www.nysedregents.org/Grade3/Mathematics/20100505book2w.pdf
+
+Exam File Sizes:  5.1 MB, 406 KB
+
+Problem Counts:  25, 6
+
+Time Allotted:  50 m, 45 m (Over Two Days)
+
+Instruction File URL:  http://www.p12.nysed.gov/assessment/ei/directions/archive/m3-5-td-10.pdf
+
+Calculation-Only Problems: None
+
+Word Frequency Report
+
+http://www.writewords.org.uk/word_count.asp
+
+=> Omitted:  Exam Terms and Sample Question Content
+
+=> Omitted:  Numeric values.
+
+=> Omitted:  Image Resources
+
+=> Omitted:  ASCII Symbols
+
+Phrase Frequency Report
+
+http://www.writewords.org.uk/phrase_count.asp
+
