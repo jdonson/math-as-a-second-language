@@ -1,0 +1,40 @@
+State:  New York
+
+Grade:	 3
+
+Exam Date:  March 2–6, 2009
+
+File Names:	20090302book1.pdf, 20090302book2.pdf
+
+Exam URLs:
+http://www.nysedregents.org/Grade3/Mathematics/20090302book1.pdf
+http://www.nysedregents.org/Grade3/Mathematics/20090302book2.pdf
+
+Exam File Sizes:  315 KB, 201 KB
+
+Problem Counts:  25, 6
+
+Time Allotted:  50 m, 45 m (Over Two Days)
+
+Instruction File URL:  http://www.nysedregents.org/teacherdirections/2009-math-td-3-5.pdf
+
+Scoring Key & Item Map:  http://www.nysedregents.org/Grade3/Mathematics/20090302scoringkey.pdf
+
+Calculation-Only Problems: None
+
+Word Frequency Report
+
+http://www.writewords.org.uk/word_count.asp
+
+=> Omitted:  Exam Terms and Sample Question Content
+
+=> Omitted:  Numeric values.
+
+=> Omitted:  Image Resources
+
+=> Omitted:  ASCII Symbols
+
+Phrase Frequency Report
+
+http://www.writewords.org.uk/phrase_count.asp
+
