@@ -1,3 +1,13 @@
+State:  New York
+
+Grade:	 3
+
+Exam Date:  May 5-7, 2010
+
+File Names:	20100505book1w.pdf, 20100505book2w.pdf
+
+Exam URLs:  http://www.nysedregents.org/Grade3/Mathematics/20100505book1w.pdf, http://www.nysedregents.org/Grade3/Mathematics/20100505book2w.pdf
+
 67	the
 32	number
 28	of
